@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**shivamm-jha/shivamm-jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...javascript and React.js
-- 🌱 I’m currently learning ... React..js
-- 👯 I’m looking to collaborate on ...Complex web development projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on javascript and React.js
+- 🌱 I’m currently learning  React..js
+- 👯 I’m looking to collaborate on Complex web development projects
+- 🤔 I’m looking for help with
+- 💬 Ask me about ... Data Strcutures & Algorithms
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
