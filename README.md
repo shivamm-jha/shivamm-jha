@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with
 - 💬 Ask me about ... Data Strcutures & Algorithms
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+
 
